@@ -1,4 +1,11 @@
-# 第一阶段采集
+# GitHub 开源项目查找器
+
+一个简洁的中文 GitHub 开源项目目录。用户可以按大类、标签和关键词查找项目，并前往作者提供的原始仓库页面。
+
+- 前台搜索、筛选和排序只读取静态 `repos.json`，不消耗 GitHub 或 AI API 额度。
+- 当前样本包含 104 个真实、公开、未归档项目，覆盖 8 个主分类。
+- 页面只提供原始项目网页链接，不提供源码或安装包下载。
+- 第一版范围和验收标准见 [PROJECT_PLAN.md](PROJECT_PLAN.md)，UI 调研与许可证记录见 [UI_REFERENCES.md](UI_REFERENCES.md)。
 
 ## 本地网站
 
@@ -8,7 +15,9 @@
 
 将本目录作为仓库根目录推送到 `main`，在仓库设置中启用 Issues，并将 Pages 的构建来源设为 GitHub Actions。仓库需要允许工作流写入 `main`，以保存成功采集的快照。工作流使用 GitHub 自动提供的 `GITHUB_TOKEN`。
 
-准备上线时，在仓库的 Actions 变量中将 `ENABLE_PAGES` 设为 `true`。首次发布可在 Actions 运行「Refresh and deploy directory」，保留默认设置即可用现有快照发布。确认仓库 Issues 可用于纠错与下架，并从发布网址检查桌面和手机入口。需要实测采集时可勾选 `refresh`。定时任务按北京时间每天 02:17 计划运行，GitHub 可能延后执行。采集失败会跳过发布并保留线上版本，失败详情可在 Actions 查看。
+每日数据更新与网站发布相互独立。定时任务按北京时间每天 02:17 计划运行，GitHub 可能延后执行。采集成功后会提交新的 `repos.json`，失败时不会覆盖旧快照，也不会无限重试。失败详情可在 Actions 查看。
+
+准备上线时，在仓库的 Actions 变量中将 `ENABLE_PAGES` 设为 `true`。首次发布可在 Actions 运行「Refresh and deploy directory」，保留默认设置即可用现有快照发布。确认仓库 Issues 可用于纠错与下架，并从发布网址检查桌面和手机入口。需要立即实测采集时可勾选 `refresh`。
 
 本地生产构建已在 1280px 和 390px 的 Edge 浏览器视口验证搜索、分类、标签、三种排序、空结果、外链和请求行为。已验证 Pages 子路径构建，以及触发预算上限时保留快照。线上入口与连续 7 天更新记录须在仓库接入后验收。
 

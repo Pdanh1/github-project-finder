@@ -17,7 +17,6 @@ concurrency:
 
 jobs:
   build:
-    if: vars.ENABLE_PAGES == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -55,12 +54,15 @@ jobs:
             .search-cache.json
           key: github-search-v1-${{ github.run_id }}-${{ github.run_attempt }}
       - uses: actions/configure-pages@v5
+        if: vars.ENABLE_PAGES == 'true'
         id: pages
       - run: pnpm build
+        if: vars.ENABLE_PAGES == 'true'
         env:
           SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
           NEXT_PUBLIC_FEEDBACK_URL: ${{ github.server_url }}/${{ github.repository }}/issues/new
       - uses: actions/upload-pages-artifact@v3
+        if: vars.ENABLE_PAGES == 'true'
         with:
           path: out
       - name: Retain the successful snapshot
@@ -75,6 +77,7 @@ jobs:
 
   deploy:
     needs: build
+    if: vars.ENABLE_PAGES == 'true' && !(github.event_name == 'push' && github.actor == 'github-actions[bot]')
     runs-on: ubuntu-latest
     permissions:
       pages: write
