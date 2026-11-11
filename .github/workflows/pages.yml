@@ -1,0 +1,87 @@
+name: Refresh and deploy directory
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 18 * * *'
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Fetch a new GitHub snapshot
+        type: boolean
+        default: false
+
+concurrency:
+  group: project-finder-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: vars.ENABLE_PAGES == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: pnpm install --frozen-lockfile
+      - run: node --test collect.test.mjs
+      - uses: actions/cache/restore@v4
+        if: github.event_name == 'schedule' || inputs.refresh
+        with:
+          path: |
+            .budget.json
+            .search-cache.json
+          key: github-search-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: github-search-v1-
+      - name: Refresh snapshot
+        if: github.event_name == 'schedule' || inputs.refresh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node collect.mjs
+      - uses: actions/cache/save@v4
+        if: always() && (github.event_name == 'schedule' || inputs.refresh) && hashFiles('.budget.json') != ''
+        with:
+          path: |
+            .budget.json
+            .search-cache.json
+          key: github-search-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/configure-pages@v5
+        id: pages
+      - run: pnpm build
+        env:
+          SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          NEXT_PUBLIC_FEEDBACK_URL: ${{ github.server_url }}/${{ github.repository }}/issues/new
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+      - name: Retain the successful snapshot
+        if: github.event_name == 'schedule' || inputs.refresh
+        run: |
+          if git diff --quiet -- repos.json; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add repos.json
+          git commit -m 'Refresh project snapshot'
+          git push origin HEAD:main
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deploy

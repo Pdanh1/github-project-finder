@@ -1,0 +1,38 @@
+:root {
+  color-scheme: light;
+  font: 16px/1.6 Geist, system-ui, "Microsoft YaHei", sans-serif;
+  color: #17231e;
+  background: #f7f9f7;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 58rem; margin: auto; padding: 3rem 1.25rem; }
+header { margin-bottom: 2rem; }
+h1 { font-size: clamp(1.7rem, 5vw, 2.75rem); line-height: 1.2; margin: 0; letter-spacing: -.035em; }
+header p, footer, .details, .toolbar p { color: #47584f; }
+label { font-weight: 600; }
+input, button, select { font: inherit; color: inherit; }
+input, select, button { border: 1px solid #aab8af; border-radius: .35rem; background: #fff; }
+input { display: block; width: 100%; margin: .4rem 0 .85rem; padding: .7rem; }
+button, select { min-height: 2.75rem; padding: .25rem .6rem; }
+button, select { cursor: pointer; }
+button:hover, button[aria-pressed=true], .selected { background: #dceee4; border-color: #528166; }
+:focus-visible { outline: 2px solid #12633b; outline-offset: 3px; }
+.categories, .tags, .toolbar, .details { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem; }
+.toolbar, .details { justify-content: space-between; gap: .5rem 1rem; }
+.toolbar { margin-top: 1.25rem; }
+article { padding: 1rem 0; border-bottom: 1px solid #ccd6cf; overflow-wrap: anywhere; }
+h2 { font-size: 1.25rem; margin: 0; }
+.description { margin: .35rem 0 .7rem; }
+.tags { font-size: .875rem; }
+.tags span { font-weight: 600; margin-right: .25rem; }
+.details { margin-top: .65rem; font-size: .875rem; }
+a { color: #155d38; text-underline-offset: .15em; }
+.details a { display: inline-flex; align-items: center; min-height: 2.75rem; }
+footer { margin-top: 2rem; font-size: .875rem; }
+footer p { margin: .25rem 0; }
+.empty { padding: 1rem 0; }
+@media (max-width: 35rem) {
+  main { padding: 1.5rem 1rem; }
+  .details { flex-direction: column; align-items: flex-start; }
+}
