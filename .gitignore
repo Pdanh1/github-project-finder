@@ -1,0 +1,9 @@
+.budget.json
+.search-cache.json
+.collect.lock
+*.json.tmp
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
