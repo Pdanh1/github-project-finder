@@ -42,7 +42,7 @@ export default function Page() {
   return <main>
     <header>
       <h1>GitHub 开源项目查找器</h1>
-      <p>按分类、标签或关键词查找开源项目。</p>
+      <p>按分类、标签和关键词浏览 GitHub 项目</p>
     </header>
     <section aria-label="查找项目">
       <label htmlFor="keyword">搜索项目</label>
@@ -75,7 +75,7 @@ export default function Page() {
             onClick={() => setTag(tag.toLowerCase() === value.toLowerCase() ? '' : value)}>{value}</button>)}
         </div>
         <div className="details">
-          <span>{project.primary_language || '语言未标注'} · {project.license || '未检测到许可证'} · ★ {number.format(project.stars)} · <time dateTime={project.updated_at}>{project.updated_at.slice(0, 10)}</time></span>
+          <span className="metadata">{project.primary_language || '语言未标注'} <span aria-hidden="true">·</span> {project.license || '未检测到许可证'} <span aria-hidden="true">·</span> ★ {number.format(project.stars)} <span aria-hidden="true">·</span> <time dateTime={project.updated_at}>{project.updated_at.slice(0, 10)}</time></span>
           <a href={project.html_url} aria-label={`查看项目网页 · ${project.full_name}`}>查看项目网页 ↗</a>
         </div>
       </article>)}
