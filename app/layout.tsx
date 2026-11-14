@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './site.css';
 
 export const metadata: Metadata = {
-  title: 'GitHub 开源项目查找器',
+  title: '寻源 · 开源项目导航',
   description: '搜索 GitHub 开源项目，按用途逐级浏览分类，支持模糊匹配。',
 };
 
