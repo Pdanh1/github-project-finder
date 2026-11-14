@@ -46,4 +46,3 @@ export function projectSubcategory(category: string, fullName: string) {
   const name = fullName.split('/').pop()?.toLowerCase();
   return subcategories[category]?.find(group => group.projects.includes(name || ''))?.name || '其他';
 }
-
