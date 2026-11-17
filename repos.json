@@ -15,12 +15,12 @@
       "distributed"
     ],
     "primary_language": "C++",
-    "stars": 201648,
-    "forks": 77980,
+    "stars": 201607,
+    "forks": 77968,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:32:37Z",
-    "recommendation_score": 0.951468,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:04:53Z",
+    "recommendation_score": 0.951441,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 574523116,
@@ -38,12 +38,12 @@
       "chatgpt"
     ],
     "primary_language": "MDX",
-    "stars": 177558,
-    "forks": 22640,
+    "stars": 177678,
+    "forks": 22661,
     "license": null,
-    "updated_at": "2026-11-15T22:42:10Z",
-    "recommendation_score": 0.787049,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:41:45Z",
+    "recommendation_score": 0.787075,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 155220641,
@@ -61,12 +61,12 @@
       "deepseek"
     ],
     "primary_language": "Python",
-    "stars": 169022,
-    "forks": 35217,
+    "stars": 169084,
+    "forks": 35216,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:40:57Z",
-    "recommendation_score": 0.939459,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:46:49Z",
+    "recommendation_score": 0.939472,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 669879380,
@@ -84,12 +84,12 @@
       "deep-learning"
     ],
     "primary_language": "Jupyter Notebook",
-    "stars": 108463,
-    "forks": 16780,
+    "stars": 108521,
+    "forks": 16793,
     "license": null,
-    "updated_at": "2026-11-15T22:49:13Z",
-    "recommendation_score": 0.770182,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:24:42Z",
+    "recommendation_score": 0.770186,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 65600975,
@@ -107,12 +107,12 @@
       "gpu"
     ],
     "primary_language": "Python",
-    "stars": 105542,
-    "forks": 30734,
+    "stars": 105585,
+    "forks": 30730,
     "license": null,
-    "updated_at": "2026-11-15T22:49:15Z",
-    "recommendation_score": 0.774648,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:43:49Z",
+    "recommendation_score": 0.774653,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 343965132,
@@ -130,12 +130,12 @@
       "machine-learning-algorithms"
     ],
     "primary_language": "Jupyter Notebook",
-    "stars": 92204,
-    "forks": 22926,
+    "stars": 92257,
+    "forks": 22932,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:16:28Z",
-    "recommendation_score": 0.918169,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:28:41Z",
+    "recommendation_score": 0.918154,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 655099582,
@@ -153,12 +153,12 @@
       "roadmap"
     ],
     "primary_language": null,
-    "stars": 85119,
-    "forks": 9900,
+    "stars": 85129,
+    "forks": 9901,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:49:21Z",
-    "recommendation_score": 0.908582,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:00:26Z",
+    "recommendation_score": 0.908552,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 71583602,
@@ -176,12 +176,12 @@
       "computer-architecture"
     ],
     "primary_language": null,
-    "stars": 84857,
-    "forks": 11663,
+    "stars": 84869,
+    "forks": 11662,
     "license": null,
-    "updated_at": "2026-11-15T22:19:12Z",
-    "recommendation_score": 0.759896,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T23:49:13Z",
+    "recommendation_score": 0.759838,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 10744183,
@@ -199,12 +199,12 @@
       "data-visualization"
     ],
     "primary_language": "Go",
-    "stars": 81429,
+    "stars": 81440,
     "forks": 6736,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T20:29:26Z",
+    "updated_at": "2026-11-16T23:26:16Z",
     "recommendation_score": 0.903862,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1185590488,
@@ -222,12 +222,12 @@
       "ai-engineering"
     ],
     "primary_language": "Python",
-    "stars": 79046,
-    "forks": 14094,
+    "stars": 79168,
+    "forks": 14126,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:46:51Z",
-    "recommendation_score": 0.909505,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:40:23Z",
+    "recommendation_score": 0.909563,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 22887094,
@@ -245,12 +245,12 @@
       "ocr-engine"
     ],
     "primary_language": "C++",
-    "stars": 77525,
-    "forks": 10914,
+    "stars": 77549,
+    "forks": 10912,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T19:31:44Z",
-    "recommendation_score": 0.906592,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:54:39Z",
+    "recommendation_score": 0.906693,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 115478820,
@@ -268,12 +268,12 @@
       "computer-science"
     ],
     "primary_language": null,
-    "stars": 75769,
-    "forks": 7253,
+    "stars": 75806,
+    "forks": 7252,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:23:04Z",
-    "recommendation_score": 0.902454,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:03:25Z",
+    "recommendation_score": 0.902492,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 323048702,
@@ -291,12 +291,12 @@
       "economics"
     ],
     "primary_language": "Python",
-    "stars": 75449,
-    "forks": 7895,
+    "stars": 75474,
+    "forks": 7897,
     "license": null,
-    "updated_at": "2026-11-15T22:36:39Z",
-    "recommendation_score": 0.753117,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:45:19Z",
+    "recommendation_score": 0.753093,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 10270250,
@@ -314,12 +314,12 @@
       "react"
     ],
     "primary_language": "JavaScript",
-    "stars": 252657,
-    "forks": 52759,
+    "stars": 252708,
+    "forks": 52823,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:36:13Z",
-    "recommendation_score": 0.954606,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:45:40Z",
+    "recommendation_score": 0.954627,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1162099055,
@@ -337,12 +337,12 @@
       "claude-code"
     ],
     "primary_language": "JavaScript",
-    "stars": 116196,
-    "forks": 7791,
+    "stars": 116949,
+    "forks": 7831,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:48Z",
-    "recommendation_score": 0.915512,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:35Z",
+    "recommendation_score": 0.915744,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 257485422,
@@ -360,12 +360,12 @@
       "hmr"
     ],
     "primary_language": "TypeScript",
-    "stars": 83919,
-    "forks": 10251,
+    "stars": 83943,
+    "forks": 10382,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:18:03Z",
-    "recommendation_score": 0.908453,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T23:53:09Z",
+    "recommendation_score": 0.908513,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 14747598,
@@ -383,12 +383,12 @@
       "json"
     ],
     "primary_language": "JavaScript",
-    "stars": 75745,
-    "forks": 7276,
+    "stars": 75746,
+    "forks": 7277,
     "license": "MIT",
-    "updated_at": "2026-11-15T14:47:59Z",
-    "recommendation_score": 0.90221,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T18:32:53Z",
+    "recommendation_score": 0.902239,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 107111421,
@@ -406,12 +406,12 @@
       "checklist"
     ],
     "primary_language": "MDX",
-    "stars": 74748,
+    "stars": 74755,
     "forks": 6783,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:55:18Z",
-    "recommendation_score": 0.901501,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:22:35Z",
+    "recommendation_score": 0.90152,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 65750241,
@@ -429,12 +429,12 @@
       "framework"
     ],
     "primary_language": "TypeScript",
-    "stars": 53567,
-    "forks": 15125,
+    "stars": 53596,
+    "forks": 15147,
     "license": "MIT",
-    "updated_at": "2026-11-15T20:23:30Z",
-    "recommendation_score": 0.898758,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:24:28Z",
+    "recommendation_score": 0.898865,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 12256376,
@@ -452,12 +452,12 @@
       "前端"
     ],
     "primary_language": "TypeScript",
-    "stars": 52757,
-    "forks": 13288,
+    "stars": 52755,
+    "forks": 13286,
     "license": "MIT",
-    "updated_at": "2026-11-15T20:31:26Z",
-    "recommendation_score": 0.897197,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T20:04:15Z",
+    "recommendation_score": 0.897055,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 163591278,
@@ -475,12 +475,12 @@
       "development"
     ],
     "primary_language": null,
-    "stars": 48465,
-    "forks": 4723,
+    "stars": 48478,
+    "forks": 4722,
     "license": null,
-    "updated_at": "2026-11-15T16:13:59Z",
-    "recommendation_score": 0.735586,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:50:57Z",
+    "recommendation_score": 0.735854,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 110058856,
@@ -498,12 +498,12 @@
       "cheatsheet"
     ],
     "primary_language": "JavaScript",
-    "stars": 46674,
-    "forks": 6684,
+    "stars": 46675,
+    "forks": 6683,
     "license": "MIT",
-    "updated_at": "2026-11-15T14:50:25Z",
-    "recommendation_score": 0.887456,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T21:00:57Z",
+    "recommendation_score": 0.88758,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 280567579,
@@ -521,12 +521,12 @@
       "crawler"
     ],
     "primary_language": "JavaScript",
-    "stars": 44796,
-    "forks": 5398,
+    "stars": 44797,
+    "forks": 5397,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T16:05:01Z",
-    "recommendation_score": 0.884461,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T14:37:51Z",
+    "recommendation_score": 0.884279,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 253222599,
@@ -544,12 +544,12 @@
       "前端"
     ],
     "primary_language": "Vue",
-    "stars": 41273,
-    "forks": 5584,
+    "stars": 41295,
+    "forks": 5588,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T16:00:36Z",
-    "recommendation_score": 0.882381,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:51:49Z",
+    "recommendation_score": 0.882634,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 640079149,
@@ -567,12 +567,12 @@
       "chatgpt"
     ],
     "primary_language": "Go",
-    "stars": 39651,
+    "stars": 39657,
     "forks": 3729,
     "license": "MIT",
-    "updated_at": "2026-11-15T18:18:46Z",
-    "recommendation_score": 0.877805,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T22:03:35Z",
+    "recommendation_score": 0.877837,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 788847937,
@@ -590,12 +590,12 @@
       "backend"
     ],
     "primary_language": "TypeScript",
-    "stars": 38535,
+    "stars": 38556,
     "forks": 3178,
     "license": null,
-    "updated_at": "2026-11-15T22:35:08Z",
-    "recommendation_score": 0.725761,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:43:55Z",
+    "recommendation_score": 0.72578,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1031912724,
@@ -613,12 +613,12 @@
       "codex"
     ],
     "primary_language": "Rust",
-    "stars": 154616,
-    "forks": 10131,
+    "stars": 154938,
+    "forks": 10150,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:37:50Z",
-    "recommendation_score": 0.926057,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:36Z",
+    "recommendation_score": 0.92614,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 63539055,
@@ -636,12 +636,12 @@
       "application"
     ],
     "primary_language": "Swift",
-    "stars": 118605,
-    "forks": 10328,
+    "stars": 118682,
+    "forks": 10359,
     "license": "CC0-1.0",
-    "updated_at": "2026-11-15T22:30:13Z",
-    "recommendation_score": 0.918542,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:50:06Z",
+    "recommendation_score": 0.918598,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1223170290,
@@ -659,12 +659,12 @@
       "byok"
     ],
     "primary_language": "TypeScript",
-    "stars": 107758,
-    "forks": 12245,
+    "stars": 107945,
+    "forks": 12266,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:39:47Z",
-    "recommendation_score": 0.91725,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:49:18Z",
+    "recommendation_score": 0.91732,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 551376520,
@@ -682,12 +682,12 @@
       "cli"
     ],
     "primary_language": "Rust",
-    "stars": 63642,
-    "forks": 13018,
+    "stars": 63701,
+    "forks": 13026,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T22:22:24Z",
-    "recommendation_score": 0.902524,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:38:27Z",
+    "recommendation_score": 0.902564,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 182306991,
@@ -705,12 +705,12 @@
       "mac"
     ],
     "primary_language": "TypeScript",
-    "stars": 34063,
-    "forks": 2047,
+    "stars": 34073,
+    "forks": 2051,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:27:28Z",
-    "recommendation_score": 0.868365,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:44:41Z",
+    "recommendation_score": 0.86836,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 411493648,
@@ -728,12 +728,12 @@
       "desktop"
     ],
     "primary_language": "C#",
-    "stars": 32277,
-    "forks": 1797,
+    "stars": 32283,
+    "forks": 1796,
     "license": "MIT",
-    "updated_at": "2026-11-15T15:43:06Z",
-    "recommendation_score": 0.865406,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T22:05:09Z",
+    "recommendation_score": 0.865539,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 201570219,
@@ -751,12 +751,12 @@
       "good-first-issue"
     ],
     "primary_language": "TypeScript",
-    "stars": 25561,
+    "stars": 25563,
     "forks": 1433,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T18:50:54Z",
-    "recommendation_score": 0.856812,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T16:28:31Z",
+    "recommendation_score": 0.856597,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 956337638,
@@ -774,12 +774,12 @@
       "desktop-pet"
     ],
     "primary_language": "Rust",
-    "stars": 24645,
-    "forks": 1235,
+    "stars": 24652,
+    "forks": 1237,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T21:18:43Z",
-    "recommendation_score": 0.854563,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:48:48Z",
+    "recommendation_score": 0.854643,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 825187044,
@@ -797,12 +797,12 @@
       "compose-desktop"
     ],
     "primary_language": "Kotlin",
-    "stars": 19303,
+    "stars": 19331,
     "forks": 1030,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T18:46:04Z",
-    "recommendation_score": 0.845813,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:43:12Z",
+    "recommendation_score": 0.846011,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 68968979,
@@ -820,12 +820,12 @@
       "mcp"
     ],
     "primary_language": "TypeScript",
-    "stars": 18951,
+    "stars": 18958,
     "forks": 1358,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T22:14:36Z",
-    "recommendation_score": 0.847818,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:44:12Z",
+    "recommendation_score": 0.847847,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1197569406,
@@ -843,35 +843,12 @@
       "ai-agent"
     ],
     "primary_language": "TypeScript",
-    "stars": 15448,
-    "forks": 8619,
+    "stars": 15468,
+    "forks": 8621,
     "license": null,
-    "updated_at": "2026-11-15T17:23:25Z",
-    "recommendation_score": 0.707754,
-    "collected_at": "2026-11-15T22:49:21.838Z"
-  },
-  {
-    "github_id": 677376114,
-    "name": "Metrolist",
-    "full_name": "MetrolistGroup/Metrolist",
-    "html_url": "https://github.com/MetrolistGroup/Metrolist",
-    "original_description": "YouTube Music client for Android",
-    "summary_zh": null,
-    "primary_category": "移动与桌面应用",
-    "tags": [
-      "kotlin",
-      "桌面应用",
-      "android",
-      "foss",
-      "innertube"
-    ],
-    "primary_language": "Kotlin",
-    "stars": 14439,
-    "forks": 1328,
-    "license": "GPL-3.0",
-    "updated_at": "2026-11-15T22:44:24Z",
-    "recommendation_score": 0.839772,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:00:47Z",
+    "recommendation_score": 0.707975,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 59187489,
@@ -887,12 +864,35 @@
       "music-player"
     ],
     "primary_language": "JavaScript",
-    "stars": 11450,
+    "stars": 11452,
     "forks": 1524,
     "license": "MIT",
-    "updated_at": "2026-11-15T20:00:39Z",
-    "recommendation_score": 0.834143,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T09:48:43Z",
+    "recommendation_score": 0.833618,
+    "collected_at": "2026-11-17T01:52:26.564Z"
+  },
+  {
+    "github_id": 1015815983,
+    "name": "autoclip",
+    "full_name": "zhouxiaoka/autoclip",
+    "html_url": "https://github.com/zhouxiaoka/autoclip",
+    "original_description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "summary_zh": null,
+    "primary_category": "移动与桌面应用",
+    "tags": [
+      "Python",
+      "桌面应用",
+      "ai-agent",
+      "ai-video-editor",
+      "content-repurposing"
+    ],
+    "primary_language": "Python",
+    "stars": 10601,
+    "forks": 1861,
+    "license": "MIT",
+    "updated_at": "2026-11-17T01:06:09Z",
+    "recommendation_score": 0.833728,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1136590548,
@@ -910,12 +910,12 @@
       "claude"
     ],
     "primary_language": "JavaScript",
-    "stars": 303805,
-    "forks": 44779,
+    "stars": 304680,
+    "forks": 44869,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:39Z",
-    "recommendation_score": 0.958528,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:52:28Z",
+    "recommendation_score": 0.958629,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1266797999,
@@ -933,12 +933,12 @@
       "claude"
     ],
     "primary_language": "JavaScript",
-    "stars": 191420,
-    "forks": 10714,
+    "stars": 192208,
+    "forks": 10782,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:58Z",
-    "recommendation_score": 0.932732,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:49:48Z",
+    "recommendation_score": 0.932905,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1200597263,
@@ -956,12 +956,12 @@
       "ast"
     ],
     "primary_language": "Python",
-    "stars": 148390,
-    "forks": 14241,
+    "stars": 149070,
+    "forks": 14324,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:49:15Z",
-    "recommendation_score": 0.927832,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:16Z",
+    "recommendation_score": 0.928014,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1211139949,
@@ -979,12 +979,12 @@
       "architecture-diagram"
     ],
     "primary_language": "JavaScript",
-    "stars": 96780,
-    "forks": 6618,
+    "stars": 97179,
+    "forks": 6634,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:49:04Z",
-    "recommendation_score": 0.908802,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:23Z",
+    "recommendation_score": 0.908941,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 90796663,
@@ -1002,12 +1002,12 @@
       "chromium"
     ],
     "primary_language": "TypeScript",
-    "stars": 95844,
-    "forks": 9605,
+    "stars": 95848,
+    "forks": 9607,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T16:45:09Z",
-    "recommendation_score": 0.911514,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:41:42Z",
+    "recommendation_score": 0.911751,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 771302083,
@@ -1025,12 +1025,12 @@
       "chatgpt"
     ],
     "primary_language": "TypeScript",
-    "stars": 93529,
-    "forks": 12527,
+    "stars": 93609,
+    "forks": 12536,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:23:39Z",
-    "recommendation_score": 0.913337,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:34:30Z",
+    "recommendation_score": 0.913373,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1139971460,
@@ -1048,12 +1048,12 @@
       "anthropic"
     ],
     "primary_language": "Rust",
-    "stars": 86669,
-    "forks": 5556,
+    "stars": 86804,
+    "forks": 5571,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:38:18Z",
-    "recommendation_score": 0.904081,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:48:02Z",
+    "recommendation_score": 0.904154,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 203587744,
@@ -1071,12 +1071,12 @@
       "api-rest"
     ],
     "primary_language": "TypeScript",
-    "stars": 80820,
-    "forks": 6242,
+    "stars": 80831,
+    "forks": 6244,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:58:10Z",
-    "recommendation_score": 0.903042,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T14:53:36Z",
+    "recommendation_score": 0.902644,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1078079172,
@@ -1094,12 +1094,12 @@
       "automation"
     ],
     "primary_language": "Python",
-    "stars": 79578,
-    "forks": 9728,
+    "stars": 79659,
+    "forks": 9744,
     "license": null,
-    "updated_at": "2026-11-15T22:46:48Z",
-    "recommendation_score": 0.75648,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:34:49Z",
+    "recommendation_score": 0.756513,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1385896447,
@@ -1117,12 +1117,12 @@
       "deepseek-harness"
     ],
     "primary_language": "JavaScript",
-    "stars": 75728,
-    "forks": 2122,
+    "stars": 77375,
+    "forks": 2186,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:49:27Z",
-    "recommendation_score": 0.891823,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:52:23Z",
+    "recommendation_score": 0.892704,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1238120057,
@@ -1140,12 +1140,12 @@
       "claude-code-plugin"
     ],
     "primary_language": "Python",
-    "stars": 61292,
-    "forks": 3594,
+    "stars": 61398,
+    "forks": 3601,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:01:45Z",
-    "recommendation_score": 0.890243,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:06:33Z",
+    "recommendation_score": 0.890311,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1193909050,
@@ -1163,12 +1163,12 @@
       "ai"
     ],
     "primary_language": "Rust",
-    "stars": 51174,
-    "forks": 4142,
+    "stars": 51404,
+    "forks": 4158,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:44:09Z",
-    "recommendation_score": 0.88628,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:47:09Z",
+    "recommendation_score": 0.886443,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1134426800,
@@ -1186,12 +1186,12 @@
       "ai-agent-skills"
     ],
     "primary_language": "Python",
-    "stars": 49760,
-    "forks": 7196,
+    "stars": 49818,
+    "forks": 7223,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:19:35Z",
-    "recommendation_score": 0.890249,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:47:35Z",
+    "recommendation_score": 0.890292,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 214587193,
@@ -1209,12 +1209,12 @@
       "auth"
     ],
     "primary_language": "TypeScript",
-    "stars": 115085,
-    "forks": 15145,
+    "stars": 115073,
+    "forks": 15133,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:19:28Z",
-    "recommendation_score": 0.920988,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:47:43Z",
+    "recommendation_score": 0.920994,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 222751131,
@@ -1232,12 +1232,12 @@
       "数据库"
     ],
     "primary_language": "Python",
-    "stars": 78839,
-    "forks": 14166,
+    "stars": 78945,
+    "forks": 14172,
     "license": null,
-    "updated_at": "2026-11-15T21:59:04Z",
-    "recommendation_score": 0.759442,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:10:55Z",
+    "recommendation_score": 0.75949,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 156018,
@@ -1255,12 +1255,12 @@
       "distributed-systems"
     ],
     "primary_language": "C",
-    "stars": 77536,
-    "forks": 25068,
+    "stars": 77512,
+    "forks": 25054,
     "license": null,
-    "updated_at": "2026-11-15T22:20:46Z",
-    "recommendation_score": 0.763931,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:08:12Z",
+    "recommendation_score": 0.763907,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 130688011,
@@ -1278,12 +1278,12 @@
       "app-search"
     ],
     "primary_language": "Rust",
-    "stars": 59866,
-    "forks": 2794,
+    "stars": 59877,
+    "forks": 2797,
     "license": null,
-    "updated_at": "2026-11-15T14:07:20Z",
-    "recommendation_score": 0.73706,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:15:21Z",
+    "recommendation_score": 0.737397,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 11225014,
@@ -1301,12 +1301,12 @@
       "distributed-database"
     ],
     "primary_language": "Go",
-    "stars": 52612,
-    "forks": 10602,
+    "stars": 52615,
+    "forks": 10608,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T21:43:12Z",
-    "recommendation_score": 0.895204,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:19:36Z",
+    "recommendation_score": 0.895193,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 44662669,
@@ -1324,12 +1324,12 @@
       "db2"
     ],
     "primary_language": "Java",
-    "stars": 52440,
-    "forks": 4455,
+    "stars": 52450,
+    "forks": 4459,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:30:53Z",
-    "recommendation_score": 0.887611,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:25:29Z",
+    "recommendation_score": 0.887619,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 60246359,
@@ -1347,12 +1347,12 @@
       "big-data"
     ],
     "primary_language": "C++",
-    "stars": 50943,
-    "forks": 9268,
+    "stars": 50965,
+    "forks": 9272,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T21:24:57Z",
-    "recommendation_score": 0.893091,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:27:18Z",
+    "recommendation_score": 0.893106,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 30203935,
@@ -1370,12 +1370,12 @@
       "business-intelligence"
     ],
     "primary_language": "Clojure",
-    "stars": 50349,
-    "forks": 7010,
+    "stars": 50369,
+    "forks": 7013,
     "license": null,
-    "updated_at": "2026-11-15T22:00:31Z",
-    "recommendation_score": 0.74035,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T21:54:50Z",
+    "recommendation_score": 0.740239,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 192925833,
@@ -1393,12 +1393,12 @@
       "loggy-core"
     ],
     "primary_language": "TypeScript",
-    "stars": 47671,
-    "forks": 2627,
+    "stars": 47674,
+    "forks": 2632,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T21:42:08Z",
-    "recommendation_score": 0.880232,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T17:13:37Z",
+    "recommendation_score": 0.87995,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 138754790,
@@ -1416,12 +1416,12 @@
       "olap"
     ],
     "primary_language": "C++",
-    "stars": 43094,
-    "forks": 4206,
+    "stars": 43116,
+    "forks": 4214,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:59:25Z",
-    "recommendation_score": 0.881408,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T23:45:01Z",
+    "recommendation_score": 0.881388,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 41986369,
@@ -1439,12 +1439,12 @@
       "agent-memory"
     ],
     "primary_language": "Go",
-    "stars": 40737,
-    "forks": 6293,
+    "stars": 40739,
+    "forks": 6297,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T20:10:23Z",
-    "recommendation_score": 0.883206,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:47:22Z",
+    "recommendation_score": 0.883275,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 667110339,
@@ -1462,12 +1462,12 @@
       "database-schema"
     ],
     "primary_language": "JavaScript",
-    "stars": 40329,
-    "forks": 3366,
+    "stars": 40332,
+    "forks": 3369,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T17:10:11Z",
-    "recommendation_score": 0.877361,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T13:17:50Z",
+    "recommendation_score": 0.877094,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 4793392,
@@ -1485,12 +1485,12 @@
       "database-security"
     ],
     "primary_language": "Python",
-    "stars": 38958,
-    "forks": 6445,
+    "stars": 38970,
+    "forks": 6450,
     "license": null,
-    "updated_at": "2026-11-15T21:34:13Z",
-    "recommendation_score": 0.732176,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:51:44Z",
+    "recommendation_score": 0.732202,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 36633370,
@@ -1508,12 +1508,12 @@
       "隐私"
     ],
     "primary_language": null,
-    "stars": 337409,
-    "forks": 15846,
+    "stars": 337753,
+    "forks": 15864,
     "license": null,
-    "updated_at": "2026-11-15T22:48:24Z",
-    "recommendation_score": 0.802542,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:11Z",
+    "recommendation_score": 0.802581,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 193215554,
@@ -1531,12 +1531,12 @@
       "automation"
     ],
     "primary_language": "TypeScript",
-    "stars": 210608,
-    "forks": 61534,
+    "stars": 210677,
+    "forks": 61528,
     "license": null,
-    "updated_at": "2026-11-15T22:28:06Z",
-    "recommendation_score": 0.800667,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:29:34Z",
+    "recommendation_score": 0.800674,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 701547123,
@@ -1554,12 +1554,12 @@
       "llm-ui"
     ],
     "primary_language": "Svelte",
-    "stars": 158750,
-    "forks": 23082,
+    "stars": 158858,
+    "forks": 23088,
     "license": null,
-    "updated_at": "2026-11-15T22:48:20Z",
-    "recommendation_score": 0.78398,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:49:20Z",
+    "recommendation_score": 0.784,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 455229168,
@@ -1577,12 +1577,12 @@
       "google-photos"
     ],
     "primary_language": "TypeScript",
-    "stars": 119294,
-    "forks": 7616,
+    "stars": 119390,
+    "forks": 7634,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T22:21:28Z",
-    "recommendation_score": 0.916059,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:47:50Z",
+    "recommendation_score": 0.916118,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 594155488,
@@ -1600,12 +1600,12 @@
       "pdf"
     ],
     "primary_language": "TypeScript",
-    "stars": 96669,
-    "forks": 9363,
+    "stars": 96780,
+    "forks": 9365,
     "license": null,
-    "updated_at": "2026-11-15T22:02:44Z",
-    "recommendation_score": 0.761751,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:42:14Z",
+    "recommendation_score": 0.76181,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 382496361,
@@ -1623,12 +1623,12 @@
       "responsive"
     ],
     "primary_language": "JavaScript",
-    "stars": 94421,
-    "forks": 8845,
+    "stars": 94504,
+    "forks": 8856,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:38:25Z",
-    "recommendation_score": 0.910599,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:47:37Z",
+    "recommendation_score": 0.91064,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 725205304,
@@ -1646,12 +1646,12 @@
       "deepseek"
     ],
     "primary_language": "Python",
-    "stars": 79569,
-    "forks": 7419,
+    "stars": 79624,
+    "forks": 7433,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:17:02Z",
-    "recommendation_score": 0.904103,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:50:31Z",
+    "recommendation_score": 0.90416,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 332880689,
@@ -1669,12 +1669,12 @@
       "deployment"
     ],
     "primary_language": "PHP",
-    "stars": 66112,
-    "forks": 5998,
+    "stars": 66147,
+    "forks": 6003,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T21:50:10Z",
-    "recommendation_score": 0.896875,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:38:40Z",
+    "recommendation_score": 0.896927,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 436297812,
@@ -1692,12 +1692,12 @@
       "markdown"
     ],
     "primary_language": "Go",
-    "stars": 64487,
-    "forks": 4962,
+    "stars": 64511,
+    "forks": 4966,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:49Z",
+    "updated_at": "2026-11-17T01:24:14Z",
     "recommendation_score": 0.894546,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 72495579,
@@ -1715,12 +1715,12 @@
       "devops"
     ],
     "primary_language": "Go",
-    "stars": 59102,
-    "forks": 7398,
+    "stars": 59121,
+    "forks": 7408,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:36Z",
-    "recommendation_score": 0.89549,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:09:40Z",
+    "recommendation_score": 0.895483,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 668195240,
@@ -1738,12 +1738,12 @@
       "duckdb"
     ],
     "primary_language": "Python",
-    "stars": 58704,
+    "stars": 58708,
     "forks": 1550,
     "license": "MIT",
-    "updated_at": "2026-11-15T17:41:09Z",
-    "recommendation_score": 0.881519,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T23:47:22Z",
+    "recommendation_score": 0.881643,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 180190854,
@@ -1761,12 +1761,12 @@
       "backend"
     ],
     "primary_language": "TypeScript",
-    "stars": 58127,
-    "forks": 5889,
+    "stars": 58086,
+    "forks": 5868,
     "license": "BSD-3-Clause",
-    "updated_at": "2026-11-15T21:50:05Z",
-    "recommendation_score": 0.892989,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:43:30Z",
+    "recommendation_score": 0.892931,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 717197250,
@@ -1784,12 +1784,12 @@
       "claude"
     ],
     "primary_language": "Go",
-    "stars": 51957,
-    "forks": 12678,
+    "stars": 52030,
+    "forks": 12701,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T18:38:51Z",
-    "recommendation_score": 0.896272,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:48:21Z",
+    "recommendation_score": 0.896492,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 29207621,
@@ -1807,12 +1807,12 @@
       "caddyfile"
     ],
     "primary_language": "Go",
-    "stars": 79071,
-    "forks": 5266,
+    "stars": 79106,
+    "forks": 5274,
     "license": "Apache-2.0",
-    "updated_at": "2026-11-15T22:13:05Z",
-    "recommendation_score": 0.900942,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:08:23Z",
+    "recommendation_score": 0.900923,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 307843105,
@@ -1830,12 +1830,12 @@
       "bloatware-removal"
     ],
     "primary_language": "PowerShell",
-    "stars": 62813,
-    "forks": 2805,
+    "stars": 63050,
+    "forks": 2824,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:31:26Z",
-    "recommendation_score": 0.88882,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:36:11Z",
+    "recommendation_score": 0.888989,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1423101235,
@@ -1853,12 +1853,12 @@
       "android-tv"
     ],
     "primary_language": "Python",
-    "stars": 58259,
-    "forks": 7611,
+    "stars": 58695,
+    "forks": 7672,
     "license": null,
-    "updated_at": "2026-11-15T22:41:52Z",
-    "recommendation_score": 0.745316,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:34:59Z",
+    "recommendation_score": 0.745595,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1161163182,
@@ -1876,12 +1876,12 @@
       "desktop"
     ],
     "primary_language": "Rust",
-    "stars": 42710,
-    "forks": 4222,
+    "stars": 42723,
+    "forks": 4221,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T22:01:37Z",
-    "recommendation_score": 0.881183,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:00:44Z",
+    "recommendation_score": 0.881187,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 357241735,
@@ -1899,12 +1899,12 @@
       "degoogle"
     ],
     "primary_language": "Python",
-    "stars": 39578,
-    "forks": 3618,
+    "stars": 39618,
+    "forks": 3619,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T20:20:31Z",
-    "recommendation_score": 0.877571,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:23:39Z",
+    "recommendation_score": 0.877642,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 62712899,
@@ -1922,12 +1922,12 @@
       "dns"
     ],
     "primary_language": "TypeScript",
-    "stars": 38486,
-    "forks": 2614,
+    "stars": 38513,
+    "forks": 2617,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T21:51:36Z",
-    "recommendation_score": 0.873999,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:42:56Z",
+    "recommendation_score": 0.874061,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 658364446,
@@ -1945,12 +1945,12 @@
       "security-tools"
     ],
     "primary_language": "TypeScript",
-    "stars": 35519,
-    "forks": 2938,
+    "stars": 35531,
+    "forks": 2940,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:43:14Z",
-    "recommendation_score": 0.872685,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T22:21:27Z",
+    "recommendation_score": 0.872604,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 4008931,
@@ -1968,12 +1968,12 @@
       "curated-sources"
     ],
     "primary_language": "Python",
-    "stars": 31469,
-    "forks": 2447,
+    "stars": 31472,
+    "forks": 2449,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:26:50Z",
-    "recommendation_score": 0.867621,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:47:03Z",
+    "recommendation_score": 0.867602,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 560284721,
@@ -1991,12 +1991,12 @@
       "authy"
     ],
     "primary_language": "Dart",
-    "stars": 30154,
-    "forks": 1921,
+    "stars": 30218,
+    "forks": 1923,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T21:56:45Z",
-    "recommendation_score": 0.864264,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:46:49Z",
+    "recommendation_score": 0.864366,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 52729242,
@@ -2014,12 +2014,12 @@
       "linux"
     ],
     "primary_language": "C++",
-    "stars": 30005,
-    "forks": 2042,
+    "stars": 30024,
+    "forks": 2045,
     "license": null,
-    "updated_at": "2026-11-15T21:51:18Z",
-    "recommendation_score": 0.714647,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:39:24Z",
+    "recommendation_score": 0.714708,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 160427405,
@@ -2037,12 +2037,12 @@
       "clickhouse"
     ],
     "primary_language": "Elixir",
-    "stars": 29852,
-    "forks": 1939,
+    "stars": 29868,
+    "forks": 1941,
     "license": "AGPL-3.0",
-    "updated_at": "2026-11-15T19:58:55Z",
-    "recommendation_score": 0.863975,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T23:44:23Z",
+    "recommendation_score": 0.864028,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 49217007,
@@ -2060,12 +2060,12 @@
       "cisco-ipsec"
     ],
     "primary_language": "Shell",
-    "stars": 29045,
-    "forks": 6519,
+    "stars": 29055,
+    "forks": 6520,
     "license": null,
-    "updated_at": "2026-11-15T22:21:52Z",
-    "recommendation_score": 0.723806,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T20:33:21Z",
+    "recommendation_score": 0.723623,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 485261484,
@@ -2083,12 +2083,12 @@
       "ads"
     ],
     "primary_language": "Text",
-    "stars": 28834,
-    "forks": 878,
+    "stars": 28874,
+    "forks": 881,
     "license": "GPL-3.0",
-    "updated_at": "2026-11-15T22:00:35Z",
-    "recommendation_score": 0.856175,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:09:44Z",
+    "recommendation_score": 0.856249,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 132750724,
@@ -2106,12 +2106,12 @@
       "tutorial-code"
     ],
     "primary_language": "Markdown",
-    "stars": 562849,
-    "forks": 52679,
+    "stars": 563183,
+    "forks": 52695,
     "license": null,
-    "updated_at": "2026-11-15T22:48:58Z",
-    "recommendation_score": 0.827792,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:51:34Z",
+    "recommendation_score": 0.827812,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 21737465,
@@ -2127,12 +2127,12 @@
       "resources"
     ],
     "primary_language": null,
-    "stars": 537477,
-    "forks": 38454,
+    "stars": 538029,
+    "forks": 38471,
     "license": "CC0-1.0",
-    "updated_at": "2026-11-15T22:48:26Z",
-    "recommendation_score": 0.973722,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:52:19Z",
+    "recommendation_score": 0.973757,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 21289110,
@@ -2150,12 +2150,12 @@
       "python-tools"
     ],
     "primary_language": "Python",
-    "stars": 335006,
-    "forks": 29110,
+    "stars": 335272,
+    "forks": 29113,
     "license": null,
-    "updated_at": "2026-11-15T22:48:22Z",
-    "recommendation_score": 0.807617,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:43:04Z",
+    "recommendation_score": 0.807636,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 19415064,
@@ -2173,12 +2173,12 @@
       "curriculum"
     ],
     "primary_language": "HTML",
-    "stars": 211127,
-    "forks": 26137,
+    "stars": 211176,
+    "forks": 26146,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:31:29Z",
-    "recommendation_score": 0.943303,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:45:08Z",
+    "recommendation_score": 0.94328,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 21540759,
@@ -2195,12 +2195,12 @@
       "golang-library"
     ],
     "primary_language": "Go",
-    "stars": 194103,
-    "forks": 13750,
+    "stars": 194292,
+    "forks": 13755,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:48:19Z",
-    "recommendation_score": 0.935302,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:52:39Z",
+    "recommendation_score": 0.935334,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 32484381,
@@ -2216,12 +2216,12 @@
       "free-for-developers"
     ],
     "primary_language": "HTML",
-    "stars": 142930,
-    "forks": 15367,
+    "stars": 143005,
+    "forks": 15379,
     "license": null,
-    "updated_at": "2026-11-15T22:22:04Z",
-    "recommendation_score": 0.777389,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:47:27Z",
+    "recommendation_score": 0.777386,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 112507086,
@@ -2239,12 +2239,12 @@
       "education"
     ],
     "primary_language": "JavaScript",
-    "stars": 129522,
+    "stars": 129533,
     "forks": 12520,
     "license": "CC-BY-4.0",
-    "updated_at": "2026-11-15T21:10:15Z",
-    "recommendation_score": 0.92271,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:02:59Z",
+    "recommendation_score": 0.922745,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 1197515131,
@@ -2262,12 +2262,12 @@
       "figma"
     ],
     "primary_language": null,
-    "stars": 127664,
-    "forks": 14133,
+    "stars": 127825,
+    "forks": 14145,
     "license": "MIT",
-    "updated_at": "2026-11-15T22:34:43Z",
-    "recommendation_score": 0.9234,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:49:28Z",
+    "recommendation_score": 0.923452,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 22790488,
@@ -2285,12 +2285,12 @@
       "snippets"
     ],
     "primary_language": "Java",
-    "stars": 94871,
-    "forks": 27345,
+    "stars": 94877,
+    "forks": 27341,
     "license": null,
-    "updated_at": "2026-11-15T22:20:01Z",
-    "recommendation_score": 0.770528,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T22:24:07Z",
+    "recommendation_score": 0.770409,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 44882201,
@@ -2307,12 +2307,12 @@
       "list"
     ],
     "primary_language": null,
-    "stars": 91452,
-    "forks": 8078,
+    "stars": 91488,
+    "forks": 8082,
     "license": null,
-    "updated_at": "2026-11-15T22:41:14Z",
-    "recommendation_score": 0.758888,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:36:39Z",
+    "recommendation_score": 0.758899,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 22670857,
@@ -2330,12 +2330,12 @@
       "react-native"
     ],
     "primary_language": null,
-    "stars": 75291,
-    "forks": 7697,
+    "stars": 75309,
+    "forks": 7693,
     "license": null,
-    "updated_at": "2026-11-15T16:29:18Z",
-    "recommendation_score": 0.752592,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-16T22:08:57Z",
+    "recommendation_score": 0.752698,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 21935031,
@@ -2353,12 +2353,12 @@
       "cppcon"
     ],
     "primary_language": null,
-    "stars": 74443,
+    "stars": 74464,
     "forks": 8378,
     "license": "MIT",
-    "updated_at": "2026-11-15T21:40:56Z",
-    "recommendation_score": 0.903207,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T01:50:08Z",
+    "recommendation_score": 0.903259,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   },
   {
     "github_id": 21737266,
@@ -2376,11 +2376,11 @@
       "nodejs"
     ],
     "primary_language": null,
-    "stars": 67519,
+    "stars": 67534,
     "forks": 6254,
     "license": "CC0-1.0",
-    "updated_at": "2026-11-15T22:16:41Z",
-    "recommendation_score": 0.897865,
-    "collected_at": "2026-11-15T22:49:21.838Z"
+    "updated_at": "2026-11-17T00:50:55Z",
+    "recommendation_score": 0.897852,
+    "collected_at": "2026-11-17T01:52:26.564Z"
   }
 ]
